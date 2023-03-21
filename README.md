@@ -1,11 +1,11 @@
-<!-- [![MasterHead](https://thumbs.gfycat.com/FarOldElephantbeetle-max-1mb.gif)](https://github.com/Naman-Mittal1) --!>
+<!-- [![MasterHead](https://thumbs.gfycat.com/FarOldElephantbeetle-max-1mb.gif)](https://github.com/Priygupta1516) --!>
 <h1 align="center">Hi 👋, I'm Priya Gupta </h1>
 <h3 align="center">Enthusiast About Learning New Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8,quality-100/20210706_developer-economy_01.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naman-mittal1&label=Profile%20views&color=0e75b6&style=flat" alt="naman-mittal1" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priygupta1516&label=Profile%20views&color=0e75b6&style=flat" alt="priya-gupta" /> </p> 
 
-<p align="left"> <a href="https://twitter.com/_naman_mittal" target="blank"><img src="https://img.shields.io/twitter/follow/_naman_mittal?logo=twitter&style=for-the-badge" alt="_naman_mittal" /></a> </p> <br>
+<p align="left"> <a href="https://twitter.com/priyagu95954538" target="blank"><img src="https://img.shields.io/twitter/follow/_naman_mittal?logo=twitter&style=for-the-badge" alt="_naman_mittal" /></a> </p> <br>
 
 - 🔭 I’m currently aiming at <b>Graphic Designing</b> <br> <br>
 
