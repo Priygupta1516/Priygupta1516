@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priygupta1516&label=Profile%20views&color=0e75b6&style=flat" alt="priya-gupta" /> </p> 
 
-<p align="left"> <a href="https://twitter.com/priyagu95954538" target="blank"><img src="https://img.shields.io/twitter/follow/_naman_mittal?logo=twitter&style=for-the-badge" alt="_naman_mittal" /></a> </p> <br>
+<p align="left"> <a href="https://twitter.com/priyagu95954538" target="blank"><img src="https://img.shields.io/twitter/follow/priyagu95954538?logo=twitter&style=for-the-badge" alt="priya-gupta" /></a> </p> <br>
 
 - 🔭 I’m currently aiming at <b>Graphic Designing</b> <br> <br>
 
@@ -31,14 +31,21 @@
 <br>
 <h2 align="center">I know about:</h2>
 - Photoshop 
-- UI UX
-- Illustrator
-- Video Editing
-- Business Developement
-- Content Development
-- Canva
-- Embedded Development
-- Digital Marketing
+- UI UX <br> <br>
+
+- Illustrator <br> <br>
+
+- Video Editing <br> <br>
+
+- Business Developement <br> <br>
+
+- Content Development <br> <br>
+
+- Canva <br> <br>
+
+- Embedded Development <br> <br>
+
+- Digital Marketing <br> <br>
 
 <hr>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priygupta1516&show_icons=true&locale=en&layout=compact" alt="priya-gupta" /></p> !-->
